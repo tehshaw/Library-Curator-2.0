@@ -7,7 +7,7 @@
 
 #Version 2.0
 
-This poject is a refactor of a [previous group project] (https://github.com/faithelizagreen/library-curator). The orginal Library Curator was using handlebars as a templating engine. This refactor will attempt to refactor the site into React. The goal is to keep the funcationality of the original website while adding features and capabilities allowed by React. 
+This poject is a refactor of a [previous group project](https://github.com/faithelizagreen/library-curator). The orginal Library Curator was using handlebars as a templating engine. This refactor will attempt to refactor the site into React. The goal is to keep the funcationality of the original website while adding features and capabilities allowed by React. 
 
 # Description
 
@@ -52,19 +52,8 @@ When library members login they will be able to:
 
   ## Team Members
  --------------
- For any questions, please contact the me via github or email. Any questions about the original project, please refer to the [README] (https://github.com/faithelizagreen/library-curator#readme) located there.
+ For any questions, please contact the me via github or email. Any questions about the original project, please refer to the [README](https://github.com/faithelizagreen/library-curator#readme) located there.
 
-
-* Faith Green
-    - Github: [faithelizagreen](https://github.com/faithelizagreen)
-    - Email: faithgreen@knights.ucf.edu
 * Mike Henshaw
     - Github:[tehshaw](https://github.com/tehshaw)
     - Email: mike.henshaw.code@gmail.com 
-* Travis Puryear
-    - Github:[erebus009](https://github.com/erebuss009)
-    - Email: travispuryear678@gmail.com 
-* Josh Renner
-    - Github: [helovedus1st](https://github.com/helovedus1st)
-    - Email: jc-renner@lu-tec.com 
-
